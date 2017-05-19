@@ -1,0 +1,7 @@
+{
+    "rootPath": "github.com/shawn-tranter/go-helloworld",
+    "heroku": {
+        "install" : [ "." ],
+        "goVersion": "go1.8"
+         },
+}
