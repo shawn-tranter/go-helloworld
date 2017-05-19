@@ -1,6 +1,6 @@
 all: build
 
-main: main.go
+main: src/main/main.go
 	GOPATH=`pwd` go build main
 
 build: main
